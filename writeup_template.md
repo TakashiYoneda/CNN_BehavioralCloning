@@ -70,7 +70,6 @@ For details about how I created the training data, see the next section.
 ###Model Architecture and Training Strategy  
 
 ####1. Solution Design Approach  
-
 The overall strategy for deriving a model architecture was to light data with average CPU PC calculation.
 
 My first step was to use a convolution neural network model similar to the CIFAR10 model (deeper layers and deeper kernels in conv layer).  
@@ -124,8 +123,8 @@ To capture good driving behavior, I first recorded one lap on track one using ce
 
 I then recorded the vehicle recovering from the left side and right sides of the road back to center so that the vehicle would learn recovering. These images show what a recovery:
 
-![recover][./rec1.jpg]   
-![recover][./rec2.jpg]   
+![recover][rec1.jpg]   
+![recover][rec2.jpg]   
 ![recover][./rec3]
 
 Then I repeated this process on track two in order to get more data points.  
