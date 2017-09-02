@@ -123,7 +123,7 @@ To capture good driving behavior, I first recorded one lap on track one using ce
 
 I then recorded the vehicle recovering from the left side and right sides of the road back to center so that the vehicle would learn recovering. These images show what a recovery:
 
-![recover][rec1.jpg]   
+![recover](rec1.jpg)   
 ![recover][rec2.jpg]   
 ![recover][./rec3]
 
